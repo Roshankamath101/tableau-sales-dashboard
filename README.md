@@ -1,4 +1,4 @@
-# Restaurant Ratings Analysis Dashboard
+# tableau sales business insights 
 
 ## Overview
 Interactive Tableau dashboard created to analyze restaurant ratings and performance.
